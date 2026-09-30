@@ -31,14 +31,14 @@ public class Main {
     }
 
     private static void exibirMenu() {
-        System.out.println("\n========== GERENCIADOR DE ESTOQUE ==========");
+        System.out.println("\n========= GERENCIADOR DE ESTOQUE =========");
         System.out.println("[1] Cadastrar novo medicamento");
         System.out.println("[2] Listar todos os medicamentos");
         System.out.println("[3] Buscar medicamento por ID");
         System.out.println("[4] Atualizar medicamento");
         System.out.println("[5] Remover medicamento");
         System.out.println("[0] Sair do programa");
-        System.out.println("============================================");
+        System.out.println("==========================================");
     }
 
     private static void cadastrar() {
